@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332729950207",
+    "project_id": "techpatashala-d6821",
+    "storage_bucket": "techpatashala-d6821.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332729950207:android:361fc30ad9042f3fea11ca",
+        "android_client_info": {
+          "package_name": "com.example.techpatashala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70LOw_HNZSQnX58iS4TkcJ3soG_e0QOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
